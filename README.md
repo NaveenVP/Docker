@@ -1,2 +1,2 @@
 # Docker
-Docker files for generic purpose.
+Docker files for generic usage.
